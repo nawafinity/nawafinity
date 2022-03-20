@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![enter image description here](https://github-readme-stats.vercel.app/api?username=nawafinity&count_private=true&show_icons=true&bg_color=F6F8FA&title_color=5069DF&hide=issues&icon_color=6781a9)
 <!--
 **nawafinity/nawafinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
